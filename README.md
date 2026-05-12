@@ -18,6 +18,6 @@ interact ⏺️
 
  ----
 
-cross-PLatform 🤖
+cross-Platform access 🤖
 
  monjav is avalible on Mac. Windows, LinuxGNU, and Android. It is free
