@@ -2,7 +2,7 @@
 Fastest terminal out there, no debate needed.
 
 # what is monjav ⚡️
-monjav is a fast terminal that has an improved rendering engine. it uses a mesh of X44, XT44, Rust, C++, and its own XTERMINAL language to give you an unique experience.
+monjav is a fast terminal that has an improved rendering engine. it uses a mesh of X44, XT44, Rust, C++, and its own Xencom (Xen Commands) language to give you an unique experience.
 
 # special features:
 
